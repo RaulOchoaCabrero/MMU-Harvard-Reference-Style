@@ -7,16 +7,16 @@ Main contributor:
   Raul Ochoa Cabrero
 
 Main source types conforming to the MMU Harvard style of referencing:
-  Book
-  Book Chapter/Section
-  Journal Article
-  Report
-  Thesis/Dissertation
-  Conference Proceeding/Paper
+  Book,
+  Book Chapter/Section,
+  Journal Article,
+  Report,
+  Thesis/Dissertation,
+  Conference Proceeding/Paper,
 
 Instructions for use:
 
-Copy file and paste in folder:
+Copy .xsl file and paste in folder:
   C:\Users\(User)\AppData\Roaming\Microsoft\Bibliography\Style
 
 Restart Microsoft Word and select reference style Harvard - MMU.
