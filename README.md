@@ -17,7 +17,7 @@ Main source types conforming to the MMU Harvard style of referencing:
 Instructions for use:
 
 Copy .xsl file and paste in folder:
-  C:\Users\(User)\AppData\Roaming\Microsoft\Bibliography\Style
+  C:\Users\ (User) \AppData\Roaming\Microsoft\Bibliography\Style
 
 Restart Microsoft Word and select reference style Harvard - MMU.
 
